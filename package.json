@@ -2,7 +2,7 @@
   "name": "minimal-react-webpack-babel-setup",
   "version": "1.0.0",
   "description": "minimal setup for a react project",
-  "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
